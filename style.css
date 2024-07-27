@@ -52,7 +52,8 @@ body, html {
     background-color: #4DD936; /* 배경 색상은 오렌지색 */
     color: white;    /* 글자 색상 */
     text-align: center; /* 글자 가운데 정렬 */
-    font-size: 30px;
+    font-size: 20px;
+    font-family: 'Noto Sans KR', sans-serif;
     text-decoration: none; /* 링크 밑줄 제거 */
     border-radius: 30px; /* 모서리 둥글게 */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* 그림자 추가 */
